@@ -1,4 +1,5 @@
 # Thesis-Implementation-Stock-Prediction
+## An RNN and LSTM implementaion that incorporates Technical Indicators
 
 - So far added base frames for the RNN and LSTM implementation
 - Please rememeber to download dependencies before running
